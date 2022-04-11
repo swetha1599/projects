@@ -1,0 +1,19 @@
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    }.contaier{
+    text-align: center;
+}
+img{
+   position: flex;
+   margin-top: 15%;
+    align-items: center;
+    height: 50vh;
+}
+#btn{
+    padding: 5px;
+    margin: 10px;
+}
